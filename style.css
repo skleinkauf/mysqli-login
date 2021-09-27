@@ -1,0 +1,55 @@
+/*
+lembrando que, nao esta responsivo nem bom esse estilo, eu apenas criei o suficiente para fazer o back-end funcional, o front-end e apenas para testar as funcionalidades 
+*/
+
+body 
+{
+	background-color: #f99feb;
+	font-family: fantasy;
+}
+p 
+{
+	font-size: 19pt;
+}
+label
+{
+	font-size: 25pt;
+	color: #fff;
+	margin-left: 21%;
+}
+
+.form-mysqli
+{
+	margin-top: 75px;
+}
+.logado-sucesso
+{
+	margin-left: 25%;
+	margin-top: 15%;
+	color: green;
+}
+
+.form-input-estilo
+{
+	width: 50%;
+	padding: 10px;
+	border-radius: 25px;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.form-button
+{
+	margin-left: 20%;
+	border-radius: 25px;
+	width: 52%;
+	padding: 1%;
+	background-color: red;
+	color: #fff;
+}
+
+.falta-info-criar-conta
+{
+	margin-left: 37%;
+	color: red;
+	font-size: 25pt;
+}
